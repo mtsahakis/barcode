@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">Barcode</string>
+    <string name="camera_permissions_is_required">Camera permission is required.</string>
+    <string name="error_communicating_with_device_camera">Error communicating with device camera</string>
+    <string name="place_a_barcode_inside_the_preview_to_scan_it">Place a barcode inside the preview to scan it</string>
+</resources>
